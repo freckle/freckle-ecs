@@ -1,5 +1,9 @@
-## [_Unreleased_](https://github.com/freckle/haskell-library-template/compare/v__...main)
+## [_Unreleased_](https://github.com/freckle/freckle-ecs/compare/v0.0.0.1...main)
 
-## [v0.0.0.0](https://github.com/freckle/haskell-library-template/tree/v0.0.0.0)
+## [v0.0.0.1](https://github.com/freckle/freckle-ecs/tree/v0.0.0.1)
 
-First tagged release.
+Package metadata changes only
+
+## [v0.0.0.0](https://github.com/freckle/freckle-app/tree/freckle-ecs-v0.0.0.0/freckle-ecs)
+
+First release, sprouted from `freckle-app-1.21.0.0`.
